@@ -1,0 +1,46 @@
+
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Roteiros de Estudo Personalizados</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <header>
+        <h1>Gerador de Roteiros de Estudo Personalizados</h1>
+    </header>
+
+    <main>
+        <form id="study-form">
+            <div class="form-group">
+                <label for="topic">O que você quer estudar?</label>
+                <input type="text" id="topic" name="topic" placeholder="Ex: Programação, Python, JavaScript, Css, etc." required class="form-control">
+            </div>
+            
+            <button type="submit" id="botao-busca">Gerar Roteiro</button>
+        </form>
+
+        <div id="result-area">
+            <!-- O resultado do roteiro aparecerá aqui -->
+        </div>
+
+        <div id="search-container" style="display: none;">
+            <input type="text" id="searchInput" placeholder="Buscar no roteiro..." class="form-control">
+            <button id="searchButton">Buscar</button>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-location">
+            Brasil
+        </div>
+        <ul class="footer-links">
+            <!-- Instagram removido -->
+            <li><a href="https://github.com/andriellenaiarasilvacosta-tec" target="_blank">Github: andriellenaiarasilvacosta-tec</a></li>
+        </ul>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

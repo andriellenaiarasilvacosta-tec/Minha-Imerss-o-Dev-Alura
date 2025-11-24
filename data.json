@@ -1,0 +1,32 @@
+[
+    {
+        "passo": 1,
+        "titulo": "Exemplo de Passo 1",
+        "descricao": "Esta é a descrição do primeiro passo.",
+        "pesquisa_online": "Como iniciar estudos sobre o tema escolhido"
+    },
+    {
+        "passo": 2,
+        "titulo": "Exemplo de Passo 2",
+        "descricao": "Esta é a descrição do segundo passo.",
+        "pesquisa_online": "Principais conceitos básicos do tema"
+    },
+    {
+        "passo": 3,
+        "titulo": "Exemplo de Passo 3",
+        "descricao": "Esta é a descrição do terceiro passo.",
+        "pesquisa_online": "Fontes confiáveis para aprofundar o estudo, vídeos no Youtube"
+    },
+    {
+        "passo": 4,
+        "titulo": "Exemplo de Passo 4",
+        "descricao": "Esta é a descrição do quarto passo.",
+        "pesquisa_online": "Exercícios práticos e exemplos resolvidos"
+    },
+    {
+        "passo": 5,
+        "titulo": "Exemplo de Passo 5",
+        "descricao": "Esta é a descrição do quinto passo.",
+        "pesquisa_online": "Comunidades online e fóruns para dúvidas"
+    }
+]
